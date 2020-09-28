@@ -1,2 +1,2 @@
 # spring-boot-web-mvc
-Spring Boot Web MVC template | Thymeleaf
+Spring Boot Web MVC template | Thymeleaf | IDEA
